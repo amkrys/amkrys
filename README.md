@@ -5,7 +5,7 @@
 
 Here are some more details about me:
 
-- 🔭 I’m currently working as an Android Developer @Owebest_Technologies
+- 🔭 I’m currently working as an Android Developer @KonstantInfosolutions
 - 🌱 I’m currently learning Android Framework
 - 👯 I’m looking to collaborate on Custom Roms
 - 🤔 I’m looking for help with @ArgonOS
