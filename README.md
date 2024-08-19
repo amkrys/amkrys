@@ -37,12 +37,4 @@ I'm Bal Krishan Swami, an experienced Android Developer with a passion for build
 
 ---
 
-### Interests:
-
-- **Custom ROM/Kernel Development:** Contributed to various ROM developments and created tools/patches/scripts for Android.
-  - **MIUI9 Ported For Micromax A102[MT6572]**
-  - **Aosp-JDC For Micromax A102 [MT6572]**
-
----
-
 Feel free to reach out if you're interested in collaboration or just want to chat about Android development!
