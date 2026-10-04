@@ -1,40 +1,21 @@
-### Hi there 👋
+## Hi, I'm Bal Krishan Swami 👋
 
-I'm Bal Krishan Swami, an experienced Android Developer with a passion for building innovative mobile applications and contributing to open-source projects.
+**Senior Android Engineer** with 7+ years of experience building native Android apps and cross-platform mobile SDKs.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amkrys&show_icons=true&theme=radical)
+- 🔭 Most recently: Senior Software Engineer at **Dario Health**, building a Kotlin Multiplatform + Compose Multiplatform SDK for Android and iOS
+- 🏢 Previously: **Samsung R&D**, enterprise Android and Galaxy Watch features
+- 🛠️ Custom ROM developer: [MIUI 9 port](https://xdaforums.com/t/miui9-ported-for-micromax-a102-mt6572.3694109/) and [AOSP-JDC](https://xdaforums.com/t/aosp-jdc-for-micromax-a102-mt6572.3777391/) for Micromax A102
+- 🤖 Daily AI-assisted engineering with Cursor, Claude, Gemini and GitHub Copilot
+- 💼 **Open to Senior Android and Kotlin Multiplatform roles. Immediate joiner.**
 
----
+### Tech stack
 
-### About Me:
+**Languages:** Kotlin, Java
+**Android:** Jetpack Compose, Android Jetpack, Material 3
+**Multiplatform:** Kotlin Multiplatform, Compose Multiplatform
+**Architecture:** Clean Architecture, MVVM, MVI, modularization
+**Libraries:** Coroutines, Flow, Ktor, Retrofit, Koin, Hilt, Room, SQLDelight
 
-- 🔭 **Currently working as:** Android Engineer @Samsung
-- 🌱 **Learning:** Jetpack Compose, React Native, Flutter, Advanced Android Framework, Custom ROM Development
-- 👯 **Looking to collaborate on:** Custom ROMs, Open-source Android projects
-- 🤔 **Seeking help with:** @ArgonOS
-- 💬 **Ask me about:** Android, Kotlin, Java, Linux, Material Design, Jetpack Components
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/krishna-vaishnav-28425b172 "Krishna's LinkedIn") | [GitHub](https://github.com/amkrys) | [Stack Overflow](https://stackoverflow.com/users/11538411/krishna) | [LeetCode](https://leetcode.com/amkrys/)
-- ⚡ **Fun fact:** I can solve a 3x3 Rubik's cube in 48 seconds!
+### Connect
 
----
-
-### Technical Skills:
-
-- **Languages:** Android SDK, Java, Kotlin, XML, HTML, CSS, JavaScript, React Native, Flutter
-- **UI/UX:** Material Design, Jetpack Components, Figma, Sketch
-- **Architecture:** MVVM, MVC, MVP, Clean Architecture
-- **Tools & Platforms:** Android Studio, GitHub/GitLab, SourceTree, Jira, Firebase, SonarQube
-- **APIs & Services:** Google Maps API, Retrofit, REST APIs, SOAP, Payment Gateway Integration (RazorPay, PayU, GPay), Firebase Notifications
-- **Databases:** Room Database, SQLite
-- **Others:** Debugging, Testing, Coroutines, Dependency Injection, Team Management
-
----
-
-### Achievements:
-
-- **Employee of the Month:** Volan Software & Technologies, Sep 2019
-- **Star Performer of the Month:** Owebest Technologies Pvt Ltd., Nov 2020
-
----
-
-Feel free to reach out if you're interested in collaboration or just want to chat about Android development!
+[LinkedIn](https://www.linkedin.com/in/bal-krishan-swami/) · [Portfolio](https://amkrys.github.io/) · [Stack Overflow](https://stackoverflow.com/users/11538411/krishna) · balkrishnaswami22@gmail.com
