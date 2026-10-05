@@ -38,6 +38,7 @@ data class Developer(
         "AI-assisted engineering"
     ),
     val previously: List<String> = listOf("Dario Health", "Samsung R&D"),
+    val location: String = "Gurgaon, India (open to relocation & remote)",
     val openTo: String = "Senior Android & KMP roles",
     val availability: String = "Immediate joiner"
 ) {
@@ -46,11 +47,14 @@ data class Developer(
 ```
 
 - 🔭 Most recently a **Senior Software Engineer at Dario Health**, where I architected a **Kotlin Multiplatform + Compose Multiplatform SDK** shared across Android and iOS
+- 🔐 Built **patient-data (PHI) security** at Dario: Firebase field-level encryption, encrypted storage, secure S3 media, and **root/emulator detection in C/C++ with the Android NDK**
 - 🏢 Previously at **Samsung R&D**, building enterprise Android modules and **Galaxy Watch** features
 - 👨‍🏫 Led a team of **5 engineers** and trained **50+ engineers** on MVVM and Data Binding
+- 📱 Worked on **29+ production apps**, including **Taleek** with **10L+ (1M+) downloads**
 - ♿ Care deeply about **accessibility**: WCAG 2.1, TalkBack, VoiceOver
-- 🛠️ Started my Android journey building **custom ROMs** on XDA
+- 🛠️ Started my Android journey building **custom ROMs** on XDA, and maintained **Octavi OS** for the Asus Zenfone Max Pro M1
 - 🤖 Use **AI-assisted engineering** every day, with engineers always reviewing the output
+- 📍 Based in **Gurgaon, India**, open to relocation and remote
 - ⚡ Fun fact: I can solve a 3x3 Rubik's cube in 48 seconds
 
 ---
@@ -59,10 +63,10 @@ data class Developer(
 
 | When | Where | What I did |
 | :--- | :--- | :--- |
-| 2024 – 2026 | **Dario Health** · Senior Software Engineer | KMP + Compose Multiplatform SDK, Discover module, Compose modernization, WCAG 2.1 accessibility, React Native bridges, internal AI developer agent |
+| 2024 – 2026 | **Dario Health** · Senior Software Engineer | KMP + Compose Multiplatform SDK (Ktor, SQLDelight, Koin), Discover module, PHI security (encryption, NDK root/emulator detection), GLP Screening flow (10+ screens), native Chat re-architecture, Compose modernization, WCAG 2.1 accessibility, React Native bridges, internal AI developer agent |
 | 2023 – 2024 | **Samsung R&D Institute India** · Engineer | Enterprise Android module from scratch, Galaxy Watch Contacts and Emergency Contacts, led 5 engineers, trained 50+ |
-| 2019 – 2023 | **Android Developer** · Service companies | 14+ client apps across healthcare, e-commerce, education, food, gaming and social |
-| Before 2019 | **XDA Developers** · ROM developer | MIUI 9 port and AOSP-JDC for Micromax A102 |
+| 2019 – 2023 | **Android Developer** · Service-based companies | 29+ production apps across healthcare, e-commerce, education, food, agriculture, gaming and social, including Taleek (10L+ downloads) |
+| Side work | **XDA Developers** · ROM developer | Octavi OS for Asus Zenfone Max Pro M1; MIUI 9 port and AOSP-JDC for Micromax A102 |
 
 ---
 
@@ -118,11 +122,22 @@ data class Developer(
 
 <p>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito" />
   <img src="https://img.shields.io/badge/Espresso-6F4E37?style=for-the-badge" alt="Espresso" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
   <img src="https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Crashlytics" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+</p>
+
+**Mobile Security**
+
+<p>
+  <img src="https://img.shields.io/badge/Android%20NDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android NDK" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Root%20%26%20Emulator%20Detection-B91C1C?style=for-the-badge" alt="Root & Emulator Detection" />
+  <img src="https://img.shields.io/badge/Field--level%20Encryption-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Field-level Encryption" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
 </p>
 
 **Accessibility**
@@ -140,8 +155,11 @@ data class Developer(
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/MCP-333333?style=for-the-badge" alt="MCP" />
 </p>
 
 I use AI tools for code exploration, refactoring, debugging, test writing and documentation. At Dario Health, I contributed to an internal **AI developer agent** that turns product requirements and codebase context into technical approaches, Confluence docs and Jira-ready tasks, always reviewed by an engineer before use.
@@ -172,6 +190,24 @@ A healthcare feature built once in Compose Multiplatform and shipped on both And
 <tr>
 <td width="50%" valign="top">
 
+### 🔐 Patient Data Security
+PHI protection for Dario's healthcare app (1L+ active users): Firebase field-level encryption, encrypted local storage, secure Amazon S3 media, and root/emulator detection written in C/C++ with the Android NDK.
+
+`Android NDK` `C/C++` `Encryption` `Firebase` `AWS S3`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ Taleek – Language Lessons
+Language-learning app with video lessons in 7 languages, live Twilio sessions and Razorpay subscriptions. **10L+ (1M+) downloads** on [Google Play](https://play.google.com/store/apps/details?id=com.taleek.app).
+
+`Kotlin` `MVVM` `ExoPlayer` `Twilio` `Razorpay`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### ⌚ Galaxy Watch Contacts
 Contacts and Emergency Contacts features at Samsung R&D, with touch targets and interactions tuned for small wearable screens.
 
@@ -181,7 +217,7 @@ Contacts and Emergency Contacts features at Samsung R&D, with touch targets and 
 <td width="50%" valign="top">
 
 ### 🛠️ Custom Android ROMs
-[MIUI 9 port](https://xdaforums.com/t/miui9-ported-for-micromax-a102-mt6572.3694109/) and [AOSP-JDC](https://xdaforums.com/t/aosp-jdc-for-micromax-a102-mt6572.3777391/) for the Micromax A102 (MT6572), including kernel patches and build scripts.
+Maintained [Octavi OS for the Asus Zenfone Max Pro M1](https://github.com/amkrys/device_asus_X00TD). Earlier: [MIUI 9 port](https://xdaforums.com/t/miui9-ported-for-micromax-a102-mt6572.3694109/) and [AOSP-JDC](https://xdaforums.com/t/aosp-jdc-for-micromax-a102-mt6572.3777391/) for the Micromax A102 (MT6572), including kernel patches and build scripts.
 
 `AOSP` `Kernel` `Linux` `Shell`
 
@@ -210,7 +246,9 @@ Contacts and Emergency Contacts features at Samsung R&D, with touch targets and 
 
 ### 🤝 Let's build something together
 
-I'm currently **open to Senior Android and Kotlin Multiplatform roles** and can **join immediately**.
+I'm currently **open to Senior Android and Kotlin Multiplatform roles**, based in **Gurgaon** (open to relocation and remote), and can **join immediately**.
+
+📄 [Download my resume](https://amkrys.github.io/data/resume.pdf)
 
 <a href="https://www.linkedin.com/in/bal-krishan-swami/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="mailto:balkrishnaswami22@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
